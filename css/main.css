@@ -1,0 +1,114 @@
+*{
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
+body{
+    background-color: #412c19;
+}
+.logo{
+    color: #cda97a;
+    font-size: 48px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    margin:40px 0 40px 66px;
+}
+.nav{
+    box-sizing: border-box;
+    background-color: #b1833f;
+    width: 1280px;
+    height: 42px;
+    line-height: 42px;
+    margin: 0 auto;
+    padding: 0 200px;
+    margin-bottom: 16px;
+}
+/* .navli ul{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+} */
+.navli li{
+    display: inline-block;
+    /* background-color: red; */
+    width: 120px;
+    text-align: center;
+}
+
+
+.menu-box{
+    width: 230px;
+    height: 300px;
+    background-color: #492c19;
+    margin-left: 36px;
+    float: left;
+
+}
+.right-box{
+    float: left;
+    margin-left: 20px;
+    width: 1029px;
+    height: 100%;    
+}
+.menu-pic{
+    width: 1029px;
+    height: 200px;
+    background-color: #000;  
+}
+/* .box
+{
+	width:1029px;
+	height:500px;
+	margin:16px auto;
+    background-color: #f3e9c1;
+    padding: 10px;
+} */
+.content
+{
+    box-sizing: border-box;
+	width:1029px;
+	height:500px;
+	margin:16px auto;
+    background-color: #f3e9c1;
+    padding: 25px;
+    display:none;
+}
+.right
+{
+	width:100%;
+	height:36px;
+	line-height:36px;
+	border:none;
+    padding-left:5px;
+    color:#a78b60;
+    text-align: right;
+    border-bottom: 1px solid #a78b60;
+}
+.right a
+{
+	text-decoration:none;
+	font-size:13px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.right a:link,a:visited
+{
+	color:#a78b60;
+}
+.right a:hover,a:active
+{
+	color:rgb(221,44,13);
+}
+.timu
+{
+	font-weight:bold;
+	font-size:22px;
+	width:1029px;
+	height:40px;
+    text-align:center;
+}
+
+.foot{
+    float: left;;
+    bottom: 0;
+    width: 100%;
+    height: 160px;
+    background-color: #2a160c;
+}
